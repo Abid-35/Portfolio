@@ -314,9 +314,9 @@ a:hover {
 .skill-card.animate .html-progress { width: 90%; }
 .skill-card.animate .css-progress { width: 85%; }
 .skill-card.animate .js-progress { width: 80%; }
-.skill-card.animate .react-progress { width: 75%; }
+.skill-card.animate .node-progress { width: 75%; }
 .skill-card.animate .git-progress { width: 95%; }
-.skill-card.animate .mongo-progress { width: 70%; }
+
 
 
 
